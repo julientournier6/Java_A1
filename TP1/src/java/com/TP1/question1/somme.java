@@ -9,8 +9,7 @@ public class somme {
         System.out.println("Veuillez saisir le deuxieme entier");
         int deuxiemeEntier = scanner.nextInt();
         int somme = premierEntier + deuxiemeEntier;
-        System.out.println("La somme de " + premierEntier + " avec " + deuxiemeEntier +
-                "est egale a " + somme);
+        System.out.println("La somme de " + premierEntier + " avec " + deuxiemeEntier + "est égale à " + somme);
         System.out.println("Veuillez saisir le premier entier");
 
     }
