@@ -1,5 +1,6 @@
 package com.TP2;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class discriminant {
