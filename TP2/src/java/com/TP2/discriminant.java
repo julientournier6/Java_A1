@@ -7,11 +7,11 @@ public class discriminant {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Quelle est la valeur de a ?");
-        double a = scanner.nextInt();
+        double a = scanner.nextDouble();
         System.out.println("Quelle est la valeur de b ?");
-        double b = scanner.nextInt();
+        double b = scanner.nextDouble();
         System.out.println("Quelle est la valeur de c ?");
-        double c = scanner.nextInt();
+        double c = scanner.nextDouble();
         System.out.println("L`equation est : "+a+"x² + "+b+"x + "+c);
         double delta = (int) (Math.pow(b, 2) - 4 * a * c);
         if (delta < 0) {
