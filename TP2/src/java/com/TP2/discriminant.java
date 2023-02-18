@@ -1,6 +1,5 @@
 package com.TP2;
 
-
 import java.util.Scanner;
 
 public class discriminant {
