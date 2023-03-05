@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/TP1/src/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TP2/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HarryPotterAtHome/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP3_Scanner/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP3_Scanner/src/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/TP3_echecs/src/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
